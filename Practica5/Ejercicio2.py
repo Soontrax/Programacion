@@ -1,6 +1,6 @@
-z = input("Escribe un numero:")
+z = input(raw_input("Escribe un numero:"))
 w = []
 while z <>"":
     w = w+[z]
-    z = input("Escribe otro numero:")
+    z = raw_input("Escribe otro numero:")
 print w
