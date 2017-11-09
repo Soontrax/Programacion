@@ -1,6 +1,6 @@
 a = input("Escribe el límite:")
 b = input("Escribe un valor:")
-w = []
+w = [b]
 resultado = 0+b
 while resultado < a:
     b = input("Escribe otro valor:")
