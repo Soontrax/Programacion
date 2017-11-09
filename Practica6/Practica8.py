@@ -5,4 +5,4 @@ for i in range (numero):
     w = w+[a]
 print "La lista creada es de:"  ,w
 w.sort()
-print "La lista inversa es de:" ,w
+print "La lista ordenada es de:" ,w
